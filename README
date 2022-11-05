@@ -1,0 +1,16 @@
+Voron 2.4 Panels
+	Copyright (C) 2022 Nathan Shearer
+	Licensed under GNU General Public License Version 3, 29 June 2007
+
+Instructions
+	Print a small test part to verify fitment.
+	There is 0 tolerance between the panels to ensuire a strong friction fit.
+	The panels should require significant force to fit together (requiring a hammer) and should also not crack when assembled.
+	When using the hammer, apply many light taps to mechanically (and slowly) slide them together without causing damage.
+	Use one piece of printer paper between the hammer and the panels to minimize dirt transfer and changes to the surface finish.
+	I noticed my ABS filament on my printer has some warp after cooling, but the impact was minor since the assembled panel can still flex.
+		Delaminating the parts from the bed, then annealing each side could potentially reduce or eliminate this warp. This is untested.
+	Notes
+		The original 4 x M5x10 BHCS and DIN rails work with this new 5mm thick deck panel. No additional hardware is required.
+		The electronics and z motor drives need to be removed to install the current version
+		The teardown and installation can be done without disconnecting most of the electronics on a 2.4r1 but the process can be a bit messy.

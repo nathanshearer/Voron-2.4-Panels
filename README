@@ -10,7 +10,19 @@ Instructions
 	Use one piece of printer paper between the hammer and the panels to minimize dirt transfer and changes to the surface finish.
 	I noticed my ABS filament on my printer has some warp after cooling, but the impact was minor since the assembled panel can still flex.
 		Delaminating the parts from the bed, then annealing each side could potentially reduce or eliminate this warp. This is untested.
-	Notes
-		The original 4 x M5x10 BHCS and DIN rails work with this new 5mm thick deck panel. No additional hardware is required.
-		The electronics and z motor drives need to be removed to install the current version
-		The teardown and installation can be done without disconnecting most of the electronics on a 2.4r1 but the process can be a bit messy.
+
+Notes
+	The original 4 x M5x10 BHCS and DIN rails work with this new 5mm thick deck panel. No additional hardware is required.
+	The electronics and z motor drives need to be removed to install the current version
+	The teardown and installation can be done without disconnecting most of the electronics on a 2.4r1 but the process can be a bit messy.
+	My original solid Acrylic deck panel weigs approx 817g
+	A printed 350mm ABS Deck Panel weighs approx 574.84g
+
+Print Settings
+	Material: ABS, ASA, or Polycarbonate
+	Nozzle: 0.4mm
+	Layer Height: 0.2mm
+	Line Width: 0.4mm
+	Perimeters: 3
+	Minimum top/bottom thickness: 1mm
+	Infill: 20% Gyroid
